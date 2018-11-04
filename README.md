@@ -4,11 +4,11 @@ ROPE estimates are a way to do project management work planning by using four pe
 
 * R: Realistic. Estimate based on work being typical, reasonable, plausible, and usual. 
 
-* O: Optimistic. Estimate base on work turning out to be notably easy, or fast, or lucky.
+* O: Optimistic. Estimate based on work turning out to be notably easy, or fast, or lucky.
 
 * P: Pessimistic. Estimate based work turning out to be notably hard, or slow, or unlucky. 
 
-* E: Equilibristic. Estimate when success is exactly 50% likely, for critical chain planning.
+* E: Equilibristic. Estimate based on success as 50% likely, for critical chain planning.
 
 
 ## ROPE example
