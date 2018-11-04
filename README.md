@@ -45,7 +45,7 @@ In our experience, ROPE is the best way to work across multiple organizations an
 
 ROPE estimates work well with many kinds of project management tooling.
 
-* We use the Realistic estimate in typical project management tools, such as Jira, Asana, Basecamp, etc.
+* We use the Realistic estimate in typical project management tools, such as Jira, Trello, Asana, Basecamp, Project, etc.
 
 * We use the Optimistic estimate and Pessimistic estimate in project management tools that provide range estimates, or that enable us to add custom fields. We use these estimates to highlight ranges, such as during management meetings, to advise leadership of any opportunities for faster success, and of any risks for slower success.
 
