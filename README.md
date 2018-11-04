@@ -87,6 +87,12 @@ What about minimum estimate and maximum estimate?
 
 ## Related
 
+Repositories:
+* [Task priority score](https://github.com/joelparkerhenderson/task_priority_score)
+* [Project management checklist](https://github.com/joelparkerhenderson/project_management_checklist)
+* [Responsibility assigment matrix](https://github.com/joelparkerhenderson/responsibility_assignment_matrix)
+* [Objectives and key results](https://github.com/joelparkerhenderson/objectives_and_key_results)
+
 Wikipedia:
 * [Critical chain project management](https://en.wikipedia.org/wiki/Critical_chain_project_management)
 * [Critical path method](https://en.wikipedia.org/wiki/Critical_path_method)
