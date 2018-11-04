@@ -76,7 +76,7 @@ We work with some teams that use team-specific units, such as story points, or s
 When we work with multiple organization, we always estimate using shared understanding, which typically means units of time in hours, and units of cost in U.S. dollars.
 
 
-### Does ROPE do a minimum estimate and maximum estimate?
+### Does ROPE do minimum estimate and maximum estimate?
 
 ROPE does not do a minimum estimate or maximum estimate. 
 
