@@ -53,13 +53,17 @@ ROPE estimates work well with many kinds of project management tooling.
 ## Questions
 
 
-### Why use ROPE instead of any other system?
+### Why use ROPE instead of any other way?
 
 ROPE starts with the realistic estimate, which is quick and easy.
 
-The optimistic estimate and pessimistic estimate both prove very useful in practice, especially with multiple team commuications, and multiple organization planning. We believe the wording works especially well because it focuses on the intent and feelings, rather than on exact precision.
+ROPE then adds the optimistic estimate. This proves useful in practice with stakeholders who tend to be more enthusiastic.
+
+ROPE then adds the pessimistic estimate. This proves useful in practice with stakeholders who tend to be more conservative.
 
 The equilibristic estimate is the most important estimate for wokring with project managers using critical chain. We believe critical chain scheduling is the best way forward for sophisticated projects and for agile/lean management.
+
+We believe the ROPE mnemonic and the wording works well in practice because the wording focus on intent and feelings, rather than on exact precision.
 
 
 ### What units does ROPE use?
