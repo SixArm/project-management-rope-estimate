@@ -27,7 +27,9 @@ If a task is very complex, or new territory, or needs significant new knowledge 
 ## ROPE stakeholders
 
 
-ROPE estimates are the most successful way we're doing project management planning. In our experience, ROPE is the best way to work across multiple organizations and multiple stakeholder perspectives.
+ROPE estimates are the most successful way we're doing project management planning.
+
+In our experience, ROPE is the best way to work across multiple organizations and multiple stakeholder perspectives.
 
 * R: Realistic works well for most stakeholders, and is what most people are already doing.
 
@@ -57,9 +59,9 @@ ROPE estimates work well with many kinds of project management tooling.
 
 ROPE starts with the realistic estimate, which is quick and easy.
 
-ROPE then adds the optimistic estimate. This proves useful in practice with stakeholders who tend to be more enthusiastic.
+ROPE then adds the optimistic estimate. This proves useful in practice with stakeholders who are eager.
 
-ROPE then adds the pessimistic estimate. This proves useful in practice with stakeholders who tend to be more conservative.
+ROPE then adds the pessimistic estimate. This proves useful in practice with stakeholders who are cautious.
 
 The equilibristic estimate is the most important estimate for wokring with project managers using critical chain. We believe critical chain scheduling is the best way forward for sophisticated projects and for agile/lean management.
 
