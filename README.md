@@ -11,20 +11,17 @@ ROPE estimates are a way to do project management work planning by using four pe
 * E: Equilibristic. Estimate based on success as 50% likely, for critical chain planning.
 
 
-## ROPE example
+## ROPE example of a new task
 
+When our team gets a new task, then the teammates who are likely to be doing the work get together to estimate.
 
-ROPE example of planning a new task:
+If a task is large, such involving multiple teammates, stakeholders, user stories, use cases, or organizations, then we do a Work Breakdown Structure (WBS) that splits the task into smaller tasks. 
 
-* When our team gets a new task, then the teammates who are likely to be doing the work get together to estimate.
+If a task is simple, clear, and well understood, then we do a realistic estimate, and stop there.
 
-* If a task is large, such involving multiple teammates, stakeholders, user stories, use cases, or organizations, then we do a Work Breakdown Structure (WBS) that splits the task into smaller tasks. 
+If a task is complex, unclear, or less understood, then we do an optimistic estimate and pessimistic estimate. We aim for estimates that we can do as commitments to management and customers, such as ballpark 95% certainty. We also write a RAID log, i.e. we write down any risks, assumptions, issues, dependencies.
 
-* If a task is simple, clear, and well understood, then we do a realistic estimate, and stop there.
-
-* If a task is complex, unclear, or less understood, then we do an optimistic estimate and pessimistic estimate. We aim for estimates that we can do as commitments to management and customers, such as ballpark 95% certainty. We also write a RAID log, i.e. we write down any risks, assumptions, issues, dependencies.
-
-* If a task is very complex, or new territory, or needs significant new knowledge to be understood, then we do an equilibristic estimate, and put it into our critical chain project management process. We also write a RAID log. We also aim for further WBS for these, including creating seperate research tasks, or development spikes, or stakeholder interviews, or customer research, etc.
+If a task is very complex, or new territory, or needs significant new knowledge to be understood, then we do an equilibristic estimate, and put it into our critical chain project management process. We also write a RAID log. We also aim for further WBS for these, including creating seperate research tasks, or development spikes, or stakeholder interviews, or customer research, etc.
 
 
 ## ROPE stakeholders
