@@ -65,6 +65,15 @@ Why use ROPE instead of any other system?
 * The equilibristic estimate is the most important estimate for wokring with project managers using critical chain. We believe critical chain scheduling is the best way forward for sophisticated projects and for agile/lean management.
 
 
+What units does ROPE use?
+
+* ROPE can use any units. Some estimates work well with units of time, such as hours Some estimates work well with units of cost, such as dollars. Some estimates work well with time and cost.
+
+* We work with some teams that use team-specific units, such as story points, or small/large sizes, or sprint cycles, or iteration loops, or budget tokens, or squad assignments, etc. In our experience, these can work well when the team creates shared understanding among stakeholders.
+
+* When we work with multiple organization, we always estimate using shared understanding, which typically means units of time in hours, and units of cost in U.S. dollars.
+
+
 What about minimum estimate and maximum estimate?
 
 * ROPE does not do a minimum estimate or maximum estimate. 
