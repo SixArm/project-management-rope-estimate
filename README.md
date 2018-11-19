@@ -1,6 +1,6 @@
-# Project management ROPE estimate
+# SixArm.com → Project management → <br> ROPE estimate
 
-Project management ROPE estimates are a way to do task timeline planning by using four perspectives:
+ROPE estimates are a way to do task timeline planning by using four perspectives:
 
 * R: Realistic estimate, based on work being typical, reasonable, plausible, and usual. 
 
