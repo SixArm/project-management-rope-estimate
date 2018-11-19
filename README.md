@@ -1,6 +1,6 @@
-# ROPE estimates
+# Project management ROPE estimates
 
-ROPE estimates are a way to do project management work planning by using four perspectives:
+ROPE estimates are a way to do project management task planning by using four perspectives:
 
 * R: Realistic estimate, based on work being typical, reasonable, plausible, and usual. 
 
