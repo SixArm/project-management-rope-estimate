@@ -1,3 +1,12 @@
+!--
+  * browser: sixarm-project-management-rope-estimate
+  * tracker: 25a0e40fdd0a833d5a17a3a3799d5546
+  * version: 2.0.0
+  * updated: 2018-11-19T06:30:08Z
+  * contact: Joel Parker Henderson (http://joelparkerhenderson.com)
+  * options: commentable
+-->
+
 # SixArm.com → Project management → <br> ROPE estimate
 
 ROPE estimates are a way to do task timeline planning by using four perspectives:
