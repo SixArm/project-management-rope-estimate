@@ -1,4 +1,4 @@
-# Project management ROPE estimates
+# Project management ROPE estimate
 
 Project management ROPE estimates are a way to do task timeline planning by using four perspectives:
 
