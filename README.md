@@ -192,13 +192,13 @@ We work with some teams that use other kinds of teamwork units, such as:
 
 ROPE starts with the realistic estimate, which is quick and easy.
 
-ROPE then adds the optimistic estimate. This proves useful in practice with stakeholders who are eager.
+ROPE then does the optimistic estimate, which helps stakeholders who are eager.
 
-ROPE then adds the pessimistic estimate. This proves useful in practice with stakeholders who are cautious.
+ROPE then does the pessimistic estimate, which helps stakeholders who are cautious.
 
-The equilibristic estimate is the most important estimate for wokring with project managers using critical chain. We believe critical chain scheduling is the best way forward for sophisticated projects and for agile/lean management.
+ROPE then does the equilibristic estimate, which helps stakeholders who use critical chain, monte carlo simulation, and similar kinds of systems.
 
-We believe the ROPE mnemonic and the wording works well in practice because the wording focus on intent and feelings, rather than on exact precision.
+We believe the ROPE mnemonic and the wording works well in practice because the wording focuses on intents and feelings, rather than on exact precision or fixed guarantees.
 
 
 ### Does ROPE do minimum estimate and maximum estimate?
