@@ -44,26 +44,26 @@ A ROPE estimate is a project management planning tactic that uses four perspecti
 
 A ROPE estimate is a project management planning tactic that uses four perspectives:
 
-* R = Realistic estimate. This is based on work being typical, reasonable, plausible, and usual. 
+* **`R`** = Realistic estimate. This is based on work being typical, reasonable, plausible, and usual. 
 
-* O = Optimistic estimate. This is based on work turning out to be notably easy, or fast, or lucky.
+* **`O`** = Optimistic estimate. This is based on work turning out to be notably easy, or fast, or lucky.
 
-* P = Pessimistic estimate. This is based on work turning out to be notably hard, or slow, or unlucky. 
+* **`P`** = Pessimistic estimate. This is based on work turning out to be notably hard, or slow, or unlucky. 
 
-* E = Equilibristic estimate. This is based on success as 50% likely such as for critical chains and similulations.
+* **`E`** = Equilibristic estimate. This is based on success as 50% likely such as for critical chains and similulations.
 
 
 ### What is a ROPE estimate example?
 
 Here's an example ROPE estimate for how long a task will take:
 
-* R = Realistic = 10 hours
+* **`R`** = Realistic = 10 hours
 
-* O = Optimistic = 5 hours
+* **`O`** = Optimistic = 5 hours
 
-* P = Pessimistic = 20 hours
+* **`P`** = Pessimistic = 20 hours
 
-* E = Equilibristic = 8 hours
+* **`E`** = Equilibristic = 8 hours
 
 
 ## ROPE steps
@@ -105,13 +105,13 @@ ROPE estimates are the most successful way we're doing project management planni
 
 In our experience, ROPE is the best way to work across multiple organizations and multiple stakeholder perspectives.
 
-* R: Realistic works well for most stakeholders, and is what most people are already doing.
+* **`R`** = Realistic = Works well with most stakeholders, and is what most are already doing.
 
-* O: Optimistic works well with business leaders, who want to inspire, sell, market, or present.
+* **`O`** = Optimistic = Works well with business leaders, who want to inspire, sell, market, or present.
 
-* P: Pessimistic works well with risk managers, who want to insure, budget, cap, or commit.
+* **`P`** = Pessimistic = Works well with risk managers, who want to insure, budget, cap, or commit.
 
-* E: Equilibristic works well with project managers who target the best critical chain capabilities.
+* **`E`** = Equilibristic = Works well with project managers who target the best critical chain capabilities.
 
 
 ## Who estimates?
@@ -185,7 +185,6 @@ We work with some teams that use other kinds of teamwork units, such as:
 * resources such as staffing, squad assignments, equipment availability, etc. 
 
 
-
 ## Questions
 
 
@@ -211,7 +210,6 @@ In our experience, ROPE is a better agile estimation process than minimum-maximu
 We do have some clients who ask for estimates in terms of minimum and maximum, such as for creating formal budget requests, or assigning project plan ceilings, or for not-to-exceed work rates, or for risk management purposes.
 
 For these clients, we can add these later if necessary, and discuss adding these within the context of a contract, or guarantee, or commitment.
-
 
 
 ### Why the name ROPE?
