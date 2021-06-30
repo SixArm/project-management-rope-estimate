@@ -222,10 +222,12 @@ Similarly, a ROPE estimate combines multiple perspectives, in order to create a 
 ## Related
 
 Repositories:
-* [Task priority score](https://github.com/joelparkerhenderson/task_priority_score)
-* [Project management checklist](https://github.com/joelparkerhenderson/project_management_checklist)
-* [Responsibility assigment matrix](https://github.com/joelparkerhenderson/responsibility_assignment_matrix)
-* [Objectives and key results](https://github.com/joelparkerhenderson/objectives_and_key_results)
+* [Task priority score](https://github.com/joelparkerhenderson/task-priority-score)
+* [Project management checklist](https://github.com/joelparkerhenderson/project-management-checklist)
+* [Responsibility assigment matrix](https://github.com/joelparkerhenderson/responsibility-assignment-matrix)
+* [Objectives and key results](https://github.com/joelparkerhenderson/objectives-and-key-results)
+* [Key performance indicator](https://github.com/joelparkerhenderson/key-performance-indicator)
+* [Crtical success factor](https://github.com/joelparkerhenderson/critical-success-factor)
 
 Wikipedia:
 * [Critical chain project management](https://en.wikipedia.org/wiki/Critical_chain_project_management)
