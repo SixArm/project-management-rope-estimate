@@ -7,11 +7,11 @@ contact: Joel Parker Henderson (http://joelparkerhenderson.com)
 options: commentable
 -->
 
-# Project management ROPE estimate
+# Project management ROPE&tm; estimate
 
 <img src="README.png" alt="Estimate" style="width: 100%;"/>
 
-A ROPE estimate is a project management planning tactic that uses four perspectives: Realistic, Optimistic, Pessimistic, Equilibristic. The four perspectives combine to make a better stronger estimate.
+A ROPE&tm; estimate is a project management planning tactic that uses four perspectives: Realistic, Optimistic, Pessimistic, Equilibristic. The four perspectives combine to make a better stronger estimate.
 
 * [Introduction](#introduction)
   * [What is a ROPE estimate?](#what-is-a-rope-estimate)
@@ -217,6 +217,11 @@ For these clients, we can add these later if necessary, and discuss adding these
 A real rope combines multiple threads, or fibers, or strands, in order to create a stronger whole that can do more.
 
 Similarly, a ROPE estimate combines multiple perspectives, in order to create a stronger whole for project management and project stakeholders.
+
+
+### Why is ROPE a trademark?
+
+ROPE is a trademark (&tm;) because we want to ensure that everyone has access to it, the same way, for free. We have seen similar projects skip using a trademark, then get stolen by spammer third-parties.
 
 
 ## Related
