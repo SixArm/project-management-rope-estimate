@@ -1,40 +1,42 @@
 <!--
 browser: project-management-rope-estimate
 tracker: 25a0e40fdd0a833d5a17a3a3799d5546
-version: 2.1.0
-updated: 2021-06-30T18:32:54Z
+version: 2.1.1
+updated: 2022-05-10T09:30:17Z
 contact: Joel Parker Henderson (http://joelparkerhenderson.com)
 options: commentable
 -->
 
-# Project management ROPE&tm; estimate
+# Project management ROPE™ estimate
 
 <img src="README.png" alt="Estimate" style="width: 100%;"/>
 
-A ROPE&tm; estimate is a project management planning tactic that uses four perspectives: Realistic, Optimistic, Pessimistic, Equilibristic. The four perspectives combine to make a better stronger estimate.
+A ROPE™ estimate is a project management planning tactic that uses four perspectives: Realistic, Optimistic, Pessimistic, Equilibristic. The four perspectives combine to make a better stronger estimate.
 
-* [Introduction](#introduction)
-  * [What is a ROPE estimate?](#what-is-a-rope-estimate)
-  * [What is a ROPE estimate example?](#what-is-a-rope-estimate-example)
-* [ROPE steps](#rope-steps)
-  * [Realistic estimate](#realistic-estimate)
-  * [Optimistic estimate](#optimistic-estimate)
-  * [Pessimistic estimate](#pessimistic-estimate)
-  * [Equilibristic estimate](#equilibristic-estimate)
-* [ROPE stakeholders](#rope-stakeholders)
-* [Who estimates?](#who-estimates)
-* [ROPE related to other tactics](#rope-related-to-other-tactics)
-  * [ROPE project management tooling](#rope-project-management-tooling)
-  * [ROPE and Work Breakdown Structure (WBS)](#rope-and-work-breakdown-structure-wbs)
-* [ROPE units](#rope-units)
-  * [What units does ROPE use?](#what-units-does-rope-use)
-  * [What units should we try first?](#what-units-should-we-try-first)
-  * [Can ROPE work with my team's special units?](#can-rope-work-with-my-team-s-special-units)
-* [Questions](#questions)
-  * [Why use ROPE instead of any other way?](#why-use-rope-instead-of-any-other-way)
-  * [Does ROPE do minimum estimate and maximum estimate?](#does-rope-do-minimum-estimate-and-maximum-estimate)
-  * [Why the name ROPE?](#why-the-name-rope)
-* [Related](#related)
+- [Project management ROPE™ estimate](#project-management-rope-estimate)
+  - [Introduction](#introduction)
+    - [What is a ROPE estimate?](#what-is-a-rope-estimate)
+    - [What is a ROPE estimate example?](#what-is-a-rope-estimate-example)
+  - [ROPE steps](#rope-steps)
+    - [Realistic estimate](#realistic-estimate)
+    - [Optimistic estimate](#optimistic-estimate)
+    - [Pessimistic estimate](#pessimistic-estimate)
+    - [Equilibristic estimate](#equilibristic-estimate)
+  - [ROPE stakeholders](#rope-stakeholders)
+  - [Who estimates?](#who-estimates)
+  - [ROPE related to other tactics](#rope-related-to-other-tactics)
+    - [ROPE project management tooling](#rope-project-management-tooling)
+    - [ROPE and Work Breakdown Structure (WBS)](#rope-and-work-breakdown-structure-wbs)
+  - [ROPE units](#rope-units)
+    - [What units does ROPE use?](#what-units-does-rope-use)
+    - [What units should we try first?](#what-units-should-we-try-first)
+    - [Can ROPE work with my team's special units?](#can-rope-work-with-my-teams-special-units)
+  - [Questions](#questions)
+    - [Why use ROPE instead of any other way?](#why-use-rope-instead-of-any-other-way)
+    - [Does ROPE do minimum estimate and maximum estimate?](#does-rope-do-minimum-estimate-and-maximum-estimate)
+    - [Why the name ROPE?](#why-the-name-rope)
+    - [Why is ROPE a trademark?](#why-is-rope-a-trademark)
+  - [Related](#related)
 
 
 ## Introduction
@@ -50,7 +52,7 @@ A ROPE estimate is a project management planning tactic that uses four perspecti
 
 * **`P`** = Pessimistic estimate. This is based on work turning out to be notably hard, or slow, or unlucky. 
 
-* **`E`** = Equilibristic estimate. This is based on success as 50% likely such as for critical chains and similulations.
+* **`E`** = Equilibristic estimate. This is based on success as 50% likely such as for critical chains and simulations.
 
 
 ### What is a ROPE estimate example?
