@@ -7,13 +7,13 @@ contact: Joel Parker Henderson (http://joelparkerhenderson.com)
 options: commentable
 -->
 
-# Project management ROPE™ estimate
+# ROPE™ estimate for projects, plans, tasks
 
 <img src="README.png" alt="Estimate" style="width: 100%;"/>
 
 A ROPE™ estimate is a project management planning tactic that uses four perspectives: Realistic, Optimistic, Pessimistic, Equilibristic. The four perspectives combine to make a better stronger estimate.
 
-- [Project management ROPE™ estimate](#project-management-rope-estimate)
+- [ROPE™ estimate for projects, plans, tasks](#rope-estimate-for-projects-plans-tasks)
   - [Introduction](#introduction)
     - [What is a ROPE estimate?](#what-is-a-rope-estimate)
     - [What is a ROPE estimate example?](#what-is-a-rope-estimate-example)
