@@ -1,4 +1,4 @@
-<!--
+!--
 browser: project-management-rope-estimate
 tracker: 25a0e40fdd0a833d5a17a3a3799d5546
 version: 2.1.1
@@ -7,7 +7,7 @@ contact: Joel Parker Henderson (http://joelparkerhenderson.com)
 options: commentable
 -->
 
-# ROPE™ estimate for projects, plans, tasks
+# Project management ROPE™ estimate for plans, tasks, schedules
 
 <img src="README.png" alt="Estimate" style="width: 100%;"/>
 
