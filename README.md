@@ -7,7 +7,7 @@ contact: Joel Parker Henderson (http://joelparkerhenderson.com)
 options: commentable
 -->
 
-# Project management ROPE™ estimate for plans, tasks, schedules
+# Project management ROPE™ estimate
 
 <img src="README.png" alt="Estimate" style="width: 100%;"/>
 
